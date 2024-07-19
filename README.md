@@ -6,7 +6,7 @@ Run Live captions.py for the main program
 Face_detect.py
 wcam.py are built for facial recognition layer
 
-results report Attached as DVR_report.pdf
+results report Attached as report_DVC.pdf
 
 
 !Heavy GPU Extensive program
